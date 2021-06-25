@@ -25,7 +25,7 @@ body {
   top: 0;
   left: 0;
   transition: transform 0.5s ease-in-out;
-padding: 0 1rem 0 1rem
+padding: 0 1rem 0 1rem;
 }
 
 .sidebar > div {
@@ -36,6 +36,7 @@ padding: 0 1rem 0 1rem
   align-items: center;
   justify-content: center;
   color: #fff;
+padding: 0 1rem 0 1rem;
 }
 
 .sidebar h1 {
